@@ -1,2 +1,0 @@
-# javaAssignments
-java QA assignments
